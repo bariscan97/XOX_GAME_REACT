@@ -1,5 +1,5 @@
 # XOX GAME
-## Link ==> https://xox-gamewithreact.netlify.app/
+## Link ==> https://xox-game-react.vercel.app/
 <br>
 <br>
 
