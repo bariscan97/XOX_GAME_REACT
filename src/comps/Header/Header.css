@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.header{
+    
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    color: #358ed8;
+}
+.title{
+    color: #375d7b; 
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 42px;
+}
+
